@@ -1,5 +1,5 @@
 ---
-
+prompt is Marxist critique of social securoty
 
 ---
 
