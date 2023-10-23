@@ -1,3 +1,7 @@
+input below is from prompt that is just the resolution
+
+other variables to add: Marx, Critical Race Theory, etc.
+
 Abstract:
 
 In the face of growing social inequalities, affordable housing has come to the forefront as a critical issue that governs societal equity. The paper brings light to this overlooked dimension, exploring the strong interplay of affordable housing policies with societal equity and social disparities. Intriguingly, it scrutinizes both the ambition and the pitfalls of providing guaranteed housing, and underscores the necessity for a well-considered and diverse approach in implementing effective housing policies. The discussion navigates through various government strategies, notable thinkers, and contemporary ideologies on this matter, promising an enriched understanding of the subject.
